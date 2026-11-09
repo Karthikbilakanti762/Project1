@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "day-trader-skill",
-      "description": "Eleven Claude skills for day trading: a chart scanner, a news monitor, an entry timer, an exit planner, a time machine that replays 10,000 sessions, a risk manager, a budget manager, an order executor (paper by default, never without your yes), price alerts, an earnings analyst and a Pelosi tracker.",
+      "description": "NSE/BSE intraday trading in one command: scanner, news, time machine, sizing, risk, broker orders with stops and square-off, through Zerodha, Upstox, Fyers, Dhan or Angel One. Paper by default, never a live order without your YES.",
       "source": "./",
       "category": "productivity",
       "homepage": "https://github.com/Jakeschincariol/day-trader-skill"

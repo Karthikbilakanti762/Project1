@@ -1,7 +1,7 @@
 {
   "name": "day-trader-skill",
-  "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-  "version": "2.0.0",
+  "description": "NSE/BSE intraday trading in one command: opening-range scanner, news check, time machine, sizing with Indian charges, risk rules, broker orders with protective stops and auto square-off. Any broker: Zerodha, Upstox, Fyers, Dhan, Angel One. Paper by default.",
+  "version": "3.0.0",
   "author": {
     "name": "Jake Schincariol",
     "url": "https://opusjake.ai"
@@ -13,8 +13,9 @@
     "claude-code",
     "claude-skills",
     "day-trading",
-    "stock-market",
-    "backtesting",
+    "intraday",
+    "nse",
+    "bse",
     "opening-range-breakout",
     "paper-trading"
   ],
